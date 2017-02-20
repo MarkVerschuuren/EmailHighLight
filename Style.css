@@ -1,0 +1,9 @@
+.divPopUp{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial;
+    font-size: 13px;
+    width: 350px;
+    mim-height:200px;
+    max-height: 400px;
+}
